@@ -1,0 +1,7 @@
+{
+"require": {
+	"symfony/symfony": "*",
+	"doctrine/orm": "*",
+	"twig/twig": "*"
+}
+}
